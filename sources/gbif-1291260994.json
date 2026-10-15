@@ -1,0 +1,16 @@
+{
+  "retrieved_on": "2026-10-15",
+  "source_url": "https://api.gbif.org/v1/occurrence/1291260994",
+  "gbif_id": "1291260994",
+  "catalogue_number": "BMNH(E)1061902",
+  "scientific_name": "Polygonia c-album (Linnaeus, 1758)",
+  "media": {
+    "type": "StillImage",
+    "format": "image/jpeg",
+    "title": "BMNHE_1061902_22583",
+    "created": "2013-10-22T02:35:22.000+00:00",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "rightsHolder": "The Trustees of the Natural History Museum, London",
+    "identifier": "https://data.nhm.ac.uk/media/5907cb5c-4e6b-4302-9493-120ce961f91c"
+  }
+}

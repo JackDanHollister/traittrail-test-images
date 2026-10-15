@@ -1,0 +1,16 @@
+{
+  "retrieved_on": "2026-10-15",
+  "source_url": "https://api.gbif.org/v1/occurrence/1291233269",
+  "gbif_id": "1291233269",
+  "catalogue_number": "BMNH(E)1387525",
+  "scientific_name": "Aricia artaxerxes artaxerxes",
+  "media": {
+    "type": "StillImage",
+    "format": "image/jpeg",
+    "title": "BMNHE_1387525_180159",
+    "created": "2014-08-08T21:12:22.000+00:00",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "rightsHolder": "The Trustees of the Natural History Museum, London",
+    "identifier": "https://data.nhm.ac.uk/media/cb8c873d-9908-4206-a02d-3a2ce8bf2b0d"
+  }
+}

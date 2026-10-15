@@ -1,0 +1,16 @@
+{
+  "retrieved_on": "2026-10-15",
+  "source_url": "https://api.gbif.org/v1/occurrence/1291208205",
+  "gbif_id": "1291208205",
+  "catalogue_number": "BMNH(E)1126699",
+  "scientific_name": "Pieris brassicae (Linnaeus, 1758)",
+  "media": {
+    "type": "StillImage",
+    "format": "image/jpeg",
+    "title": "BMNHE_1126699_83829",
+    "created": "2014-04-13T00:49:50.000+00:00",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "rightsHolder": "The Trustees of the Natural History Museum, London",
+    "identifier": "https://data.nhm.ac.uk/media/8584081b-02f6-480c-bd3f-d5dda889d3db"
+  }
+}

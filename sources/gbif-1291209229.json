@@ -1,0 +1,16 @@
+{
+  "retrieved_on": "2026-10-15",
+  "source_url": "https://api.gbif.org/v1/occurrence/1291209229",
+  "gbif_id": "1291209229",
+  "catalogue_number": "BMNH(E)1297421",
+  "scientific_name": "Polyommatus icarus (von Rottemburg, 1775)",
+  "media": {
+    "type": "StillImage",
+    "format": "image/jpeg",
+    "title": "BMNHE_1297421_147698",
+    "created": "2014-07-21T14:25:41.000+00:00",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "rightsHolder": "The Trustees of the Natural History Museum, London",
+    "identifier": "https://data.nhm.ac.uk/media/487fb623-34f3-41f4-8c5e-67085e396f6e"
+  }
+}

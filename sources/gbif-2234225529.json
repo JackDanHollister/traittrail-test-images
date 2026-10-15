@@ -1,0 +1,18 @@
+{
+  "retrieved_on": "2026-10-15",
+  "source_url": "https://api.gbif.org/v1/occurrence/2234225529",
+  "gbif_id": "2234225529",
+  "catalogue_number": "LM00124",
+  "scientific_name": "Aglais io (Linnaeus, 1758)",
+  "media": {
+    "type": "StillImage",
+    "format": "image/jpeg",
+    "references": "https://app.plutof.ut.ee/filerepository/view/3140043",
+    "title": "LM00124.JPG",
+    "creator": "Lauri Mällo",
+    "publisher": "PlutoF",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "rightsHolder": "Lauri Mällo",
+    "identifier": "https://s3.hpc.ut.ee/plutof-public/large/8376f4a4-3c20-4999-976d-790bca76b168.jpg"
+  }
+}
